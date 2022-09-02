@@ -1,1 +1,1 @@
-This project aims at doing projects on my local machine
+This project aims at enabling me do projects on my local machine
